@@ -20,7 +20,7 @@ Toutes les données sont **factices et anonymisées**.
 
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-03-10 173151" src="https://github.com/user-attachments/assets/837b65fb-cbc7-403d-ab1e-4a606663a36c" />
 
-### Importation des fichiers Excel et calcul automatiser
+### Importation des fichiers Excel 
 
 <img width="1920" height="1080" alt="Capture d&#39;écran 2026-03-10 173204" src="https://github.com/user-attachments/assets/50294361-0ae2-405f-a7f3-a41b21933fbc" />
 
